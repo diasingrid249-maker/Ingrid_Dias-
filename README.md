@@ -58,11 +58,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YndiGuid/YndiGuid/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/YndiGuid/YndiGuid/output/snake.svg" alt="Snake animation" />
-
 #
 
 <div align="center">
