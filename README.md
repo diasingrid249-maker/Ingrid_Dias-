@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=D4EDF7&background=9E2DFF00&width=435&lines=Be+welcom%3A;Hello%2C+my+name+is+Ingrid;I'm+a+data+science+student;I'm+25+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
-<br>
-<br>
-<br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
 #
 <div style="text-align: center;" align="center">
