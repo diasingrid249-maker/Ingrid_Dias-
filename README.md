@@ -6,7 +6,7 @@
 
 #
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3>* 📊 GitHub Stats *</h3>
   <br>
 
 <div align="center">
@@ -16,14 +16,23 @@
 
 #
 
- <h3 align="left">My Stack ~ </h3>
+<p align="center">   👋  Olá! Eu sou Ingrid
+
+Estudante de Ciência de Dados, apaixonada por tecnologia e inovação. Atualmente, desenvolvo projetos focados em Data Science e análise de dados, com o objetivo de contribuir para o avanço da sociedade por meio da tecnologia.
+
+---
+## 📚 Experiência Prática e Formação
+
+- **Embaixadora DIO Campus Expert** - Turma 10 de 2024
+- **Cursos**:
+  - Machine Learning pela AWS
+  - Python pela DIO
+  - Bootcamps e workshops diversos em Ciência de Dados
+---
+
+ <h3 align="center">  🚀 Áreas de Foco e Habilidades </h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo"  />
   <img width="12" />
@@ -37,15 +46,17 @@
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="center"> 🌐 Vamos nos conectar? </h3>
 
  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:diasingrid249@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ingrid-santos-63460aab/)
  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/yndi_guid/)
  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FF00F6&color:FFF)]()
 
-#
+ Sinta-se à vontade para entrar em contato e trocar ideias sobre Data Science, tecnologia ou inovação!
 
+#
+<h3 align="center"> 🎧 Ouvindo no Spotify </h3>
 <div align="center">
   <a href="https://open.spotify.com/user/31lpvdabykx3ozuyak2bmfgr436q">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lpvdabykx3ozuyak2bmfgr436q&count=5&unique=true" alt="Spotify recently played"  />
